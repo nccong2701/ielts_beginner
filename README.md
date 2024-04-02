@@ -8,3 +8,10 @@ sau đó chọn Collaborators (Cộng tác viên)<br>
 cái Collaborators thì ở trong menu bên trái
 
 Bước 2:<br>
+chọn "Add people"<br>
+rồi nhập email của tài khoản GitHub<br>
+
+Bước 3:<br>
+vào gmail của tài khoản mà bạn vừa "Add people"<br>
+rồi chấp nhận lời mời<br>
+bấm vào button "View invitation" là được
