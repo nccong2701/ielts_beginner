@@ -6,3 +6,5 @@ Bước 1:<br>
 vào Setting của repository<br>
 sau đó chọn Collaborators (Cộng tác viên)<br>
 cái Collaborators thì ở trong menu bên trái
+
+Bước 2:<br>
