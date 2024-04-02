@@ -15,3 +15,6 @@ Bước 3:<br>
 vào gmail của tài khoản mà bạn vừa "Add people"<br>
 rồi chấp nhận lời mời<br>
 bấm vào button "View invitation" là được
+
+Bước 4:<br>
+clone source code về rồi đẩy code lên thôi
